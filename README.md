@@ -1,2 +1,24 @@
-# portfolio
+# Emma Trapp | Data Analytics Portfolio
+
 A collection of data analytics, machine learning, and business intelligence projects using Python, SQL, and data visualization.
+
+## Featured Projects
+
+### Hotel Booking Cancellation Prediction
+Machine learning project predicting hotel booking cancellations using Python, EDA, classification modeling, and business recommendations.
+
+[View Project Repository](https://github.com/emtr8/inn-hotels-booking-cancellation-/blob/main/README.md)
+
+---
+
+### EasyVisa Classification Model
+Classification project analyzing visa application outcomes and identifying factors associated with certification decisions.
+
+[View Project Repository]
+
+---
+
+### Spotify Streaming Analysis
+Python and SQL project analyzing personal Spotify listening behavior from JSON streaming history files.
+
+[View Project Repository]
