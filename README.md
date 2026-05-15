@@ -7,7 +7,7 @@ A collection of data analytics, machine learning, and business intelligence proj
 ### Hotel Booking Cancellation Prediction
 Machine learning project predicting hotel booking cancellations using Python, EDA, classification modeling, and business recommendations.
 
-[View Project Repository](https://github.com/emtr8/inn-hotels-booking-cancellation-/blob/main/README.md)
+[View Project Repository](https://github.com/emtr8/inn-hotels-booking-cancellation-)
 
 ---
 
