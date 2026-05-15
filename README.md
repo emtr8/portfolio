@@ -11,14 +11,7 @@ Machine learning project predicting hotel booking cancellations using Python, ED
 
 ---
 
-### EasyVisa Classification Model
-Classification project analyzing visa application outcomes and identifying factors associated with certification decisions.
-
-[View Project Repository]
-
----
-
 ### Spotify Streaming Analysis
 Python and SQL project analyzing personal Spotify listening behavior from JSON streaming history files.
 
-[View Project Repository]
+[View Project Repository](https://github.com/emtr8/spotify-analysis)
