@@ -1,4 +1,4 @@
-# Emma Trapp | Business Analytics & Data Science Portfolio
+# Emma Trapp | Business & Marketing Analytics Portfolio
 
 A collection of data analytics, machine learning, and business intelligence projects using Python, SQL, and data visualization.
 
