@@ -4,14 +4,21 @@ A collection of data analytics, machine learning, and business intelligence proj
 
 ## Featured Projects
 
-### Hotel Booking Cancellation Prediction
-Machine learning project predicting hotel booking cancellations using Python, EDA, classification modeling, and business recommendations.
+### E-commerce Marketing Analytics
+An end-to-end marketing analytics case study analyzing campaign performance, acquisition channels, funnel behavior, A/B test results, customer segments, product revenue, refunds, discounts, and revenue trends using Python, SQL, and data visualization.
 
-[View Project Repository](https://github.com/emtr8/inn-hotels-booking-cancellation-)
+[View Project Repository](https://github.com/emtr8/e-commerce-marketing-analytics)
 
 ---
 
-### Spotify Streaming Analysis
-Python and SQL project analyzing personal Spotify listening behavior from JSON streaming history files.
+### Prompt Intent and Content Opportunity Analysis for AI Search
+A Python and SQL project analyzing AI-style prompts to uncover user intent patterns, content opportunities, funnel-stage gaps, and recommendations for improving visibility across traditional and AI-powered search.
 
-[View Project Repository](https://github.com/emtr8/spotify-analysis)
+[View Project Repository](https://github.com/emtr8/ai-search-content-opportunity-analysis)
+
+---
+
+### Hotel Booking Cancellation Prediction
+End-to-end classification project analyzing hotel booking behavior, predicting cancellations, and translating model results into business recommendations.
+
+[View Project Repository](https://github.com/emtr8/inn-hotels-booking-cancellation-)
